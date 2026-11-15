@@ -3,6 +3,12 @@
 **Team:** Dilan Meswani
 **Demo Video:** https://youtu.be/kga1mEwQqTU?si=XsbIYaXkTQgH0r4Q
 
+## How to run the notebook
+The notebook's results are already saved in `Carbon_Clock.ipynb`. To rerun it yourself:
+1. Download the PJM file from the EIA Hourly Electric Grid Monitor: https://www.eia.gov/electricity/gridmonitor/dashboard/electric_overview/US48/US48 --> Download Data  --> Balancing Authority/Regional Files --> PJM.
+2. Rename it `PJM.xlsx` and put it in the same folder as the notebook.
+3. Run all cells. (Or skip the first data cell: `pjm_carbon.csv`, the 2-column extract it creates, is already included in this repo.)
+
 ## The problem
 As a new driver who drives an electric vehicle, I wanted to know if when I charge my car changes how much pollution the charge causes. It turns out that the power grid's mix of energy sources changes every hour, so the same charge could be cleaner or dirtier depending on timing. The power I use to charge my car could come from clean sources, like solar, wind, or nuclear power, or dirty sources, like fossil-fuels such as coal and natural gas depending on what time I choose to charge. The big problem is that drivers have no easy way to know when the grid will be cleanest.
 
