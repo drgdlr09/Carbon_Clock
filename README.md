@@ -1,6 +1,7 @@
 # Carbon Clock
 **Track:** AI + Climate
 **Team:** Dilan Meswani
+**Demo Video:** https://youtu.be/kga1mEwQqTU?si=XsbIYaXkTQgH0r4Q
 
 ## The problem
 As a new driver who drives an electric vehicle, I wanted to know if when I charge my car changes how much pollution the charge causes. It turns out that the power grid's mix of energy sources changes every hour, so the same charge could be cleaner or dirtier depending on timing. The power I use to charge my car could come from clean sources, like solar, wind, or nuclear power, or dirty sources, like fossil-fuels such as coal and natural gas depending on what time I choose to charge. The big problem is that drivers have no easy way to know when the grid will be cleanest.
